@@ -1,5 +1,5 @@
 # python_lambda_test
-python+lambda
+仅有一行代码的python程序:python+lambda
 
 利用lambda只写一行python代码实现目标功能
 
