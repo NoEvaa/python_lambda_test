@@ -1,7 +1,7 @@
 # python_lambda_test
 仅有一行代码的python程序:python+lambda
 
-利用lambda只写一行python代码实现目标功能
+基于lambda只用一行python代码实现目标功能
 
 ## TicTacToe
 
